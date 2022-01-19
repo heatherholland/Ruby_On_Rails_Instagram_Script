@@ -1,0 +1,39 @@
+header {
+      background-color: #244751;
+      color: #ffffff;
+  }
+  main{
+      background-color:white;
+      padding:16px;
+      font-family: 'Arimo', sans-serif;
+  }
+  .post {
+      margin-bottom: 48px;
+      width: 450px;
+  }
+  .photo img { 
+      width: 100%;
+      display: block;
+  }
+      
+      
+  .user-info {
+      padding: 20px;
+  }
+  .post .user-info img {
+      border-radius: 50%;
+  }
+  .actions {
+      color: blue;
+  }
+  .comment-count {
+      color: blue;
+  }
+ h2 {
+     font-family: 'Noto Sans', sans-serif;
+ }
+ h3 {
+     font-family: 'Noto Sans', sans-serif;
+     color: black;
+     font-size: 10px;
+ }
